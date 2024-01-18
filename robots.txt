@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://kuno.pablojs.com/superjp/sitemap.xml
+Sitemap: http://kuno.pablojs.com/gilajp/sitemap.xml
+Sitemap: http://kuno.pablojs.com/gojekpot/sitemap.xml
+Sitemap: http://kuno.pablojs.com/winstrike69/sitemap.xml
+Sitemap: http://kuno.pablojs.com/slotgacor/sitemap.xml
+Sitemap: http://kuno.pablojs.com/slotzeus/sitemap.xml
+Sitemap: http://kuno.pablojs.com/kaptenjackpot/sitemap.xml
+Sitemap: http://kuno.pablojs.com/boosterjp/sitemap.xml
+Sitemap: http://kuno.pablojs.com/kerajaanslot/sitemap.xml
+Sitemap: http://kuno.pablojs.com/pakong86/sitemap.xml
+Sitemap: http://kuno.pablojs.com/viral88/sitemap.xml
+Sitemap: http://kuno.pablojs.com/clan4d/sitemap.xml
+Sitemap: http://kuno.pablojs.com/dinamit4d/sitemap.xml
+Sitemap: http://kuno.pablojs.com/elang212/sitemap.xml
+Sitemap: http://kuno.pablojs.com/gori77/sitemap.xml
+Sitemap: http://kuno.pablojs.com/viral4d/sitemap.xml
+Sitemap: http://kuno.pablojs.com/playground88/sitemap.xml
